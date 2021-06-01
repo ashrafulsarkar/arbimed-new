@@ -1,4 +1,4 @@
 # arbimed-new
 
 # Demo 
-https://ashrafulsarkar.github.io/arbimed-new.git/
+https://ashrafulsarkar.github.io/arbimed-new/
